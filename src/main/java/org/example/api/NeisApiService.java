@@ -23,7 +23,7 @@ public class NeisApiService {
         Map<String, String> params = Map.of(
                 "ATPT_OFCDC_SC_CODE", "D10",
                 "SD_SCHUL_CODE", "7240059",
-                "KEY", "c929b93c4bc4439285cfecec54ea9632",
+                "KEY", "API_KEY",
                 "MLSV_YMD", currentDate
         );
 
